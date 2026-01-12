@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "biomesbegone:pancake",
+    "biomesbegone:tapped_maple_sap_bucket"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biomesbegone:maple_pancake"
+  }
+}

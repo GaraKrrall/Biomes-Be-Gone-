@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_pancake": {
+      "conditions": {
+        "items": [
+          {
+            "items": "biomesbegone:pancake"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_tapped_maple_sap_bucket": {
+      "conditions": {
+        "items": [
+          {
+            "items": "biomesbegone:tapped_maple_sap_bucket"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "biomesbegone:maple_pancake"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_pancake",
+      "has_tapped_maple_sap_bucket"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "biomesbegone:maple_pancake"
+    ]
+  }
+}

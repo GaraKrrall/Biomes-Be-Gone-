@@ -1,0 +1,40 @@
+{
+    "schemaVersion": 1,
+    "id": "biomesbegone",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "${description}",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+        "homepage": "https://fabricmc.net/",
+        "sources": "https://github.com/FabricMC/fabric-example-mod"
+    },
+    "license": "${license}",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "mc.garakrral.biomesbegone.fabric.MainFabric"
+        ],
+        "client": [
+            "mc.garakrral.biomesbegone.fabric.MainFabric"
+        ],
+        "terrablender": [
+            "mc.garakrral.biomesbegone.fabric.MainFabric"
+        ]
+    },
+    "mixins": [
+        "biomesbegone.mixins.json",
+        "biomesbegone.fabric.mixins.json"
+    ],
+    "accessWidener": "biomesbegone.accesswidener",
+    "depends": {
+        "fabricloader": ">=${fabric_loader_version}",
+        "fabric-api": "*",
+        "terrablender": "*",
+        "minecraft": "~${minecraft_version}",
+        "java": ">=${java_version}"
+    }
+}
+  

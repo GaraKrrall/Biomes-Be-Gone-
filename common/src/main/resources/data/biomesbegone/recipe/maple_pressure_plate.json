@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": "biomesbegone:maple_planks"
+  },
+  "pattern": [
+    " PP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biomesbegone:maple_pressure_plate"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "biomesbegone:pancake",
+    "minecraft:cocoa_beans"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biomesbegone:chocolate_pancake"
+  }
+}

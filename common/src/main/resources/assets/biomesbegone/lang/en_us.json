@@ -1,0 +1,45 @@
+{
+  "block.biomesbegone.maple_leaves": "Maple Leaves",
+  "block.biomesbegone.maple_log": "Maple Log",
+  "block.biomesbegone.maple_planks": "Maple Planks",
+  "block.biomesbegone.maple_sapling": "Maple Sapling",
+  "block.biomesbegone.maple_wood": "Maple Wood",
+  "block.biomesbegone.stripped_maple_log": "Stripped Maple Log",
+  "block.biomesbegone.stripped_maple_wood": "Stripped Maple Wood",
+  "block.biomesbegone.maple_slab": "Maple Slab",
+  "block.biomesbegone.maple_stairs": "Maple Stairs",
+  "block.biomesbegone.maple_fence": "Maple Fence",
+  "block.biomesbegone.maple_fence_gate": "Maple Fence Gate",
+  "block.biomesbegone.maple_button": "Maple Button",
+  "block.biomesbegone.maple_pressure_plate": "Maple Pressure Plate",
+  "block.biomesbegone.maple_door": "Maple Door",
+  "block.biomesbegone.maple_trapdoor": "Maple Trapdoor",
+  "block.biomesbegone.maple_syrup": "Maple Syrup",
+  "block.biomesbegone.maple_syrup_boiler": "Maple Syrup Boiler",
+  "block.biomesbegone.maple_sign": "Maple Sign",
+  "block.biomesbegone.maple_wall_sign": "Maple Wall Sign",
+  "block.biomesbegone.maple_hanging_sign": "Maple Hanging Sign",
+  "block.biomesbegone.maple_wall_hanging_sign": "Maple Wall Hanging Sign",
+
+  "entity.biomesbegone.maple_boat": "Maple Boat",
+  "entity.biomesbegone.maple_chest_boat": "Maple Chest Boat",
+
+
+  "item.biomesbegone.tapped_bucket": "Tapped Bucket",
+  "item.biomesbegone.maple_syrup_bottle": "Maple Syrup Bottle",
+  "item.biomesbegone.maple_syrup_bucket": "Maple Syrup Bucket",
+  "item.biomesbegone.maple_boat": "Maple Boat",
+  "item.biomesbegone.maple_chest_boat": "Maple Chest Boat",
+  "item.biomesbegone.tapped_maple_sap_bucket": "Tapped Maple Sap Bucket",
+  "item.biomesbegone.uncured_maple_syrup": "Uncured Maple Syrup",
+  "item.biomesbegone.pancake": "Pancake",
+  "item.biomesbegone.pancake_stack": "Pancake Stack",
+  "item.biomesbegone.maple_pancake": "Maple Pancake",
+  "item.biomesbegone.maple_pancake_stack": "Maple Pancake Stack",
+  "item.biomesbegone.chocolate_pancake": "Chocolate Pancake",
+  "item.biomesbegone.chocolate_pancake_stack": "Chocolate Pancake Stack",
+  "itemgroup.biomesbegone": "Better Biomes Group",
+
+
+  "tag.item.biomesbegone.maple_logs": "Maple Logs"
+}

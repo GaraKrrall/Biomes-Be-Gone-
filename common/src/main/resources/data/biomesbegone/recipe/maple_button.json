@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "biomesbegone:maple_planks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biomesbegone:maple_button"
+  }
+}

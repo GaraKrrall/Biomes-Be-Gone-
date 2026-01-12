@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "biomesbegone:block/maple_slab"
+    },
+    "type=double": {
+      "model": "biomesbegone:block/maple_planks"
+    },
+    "type=top": {
+      "model": "biomesbegone:block/maple_slab_top"
+    }
+  }
+}
